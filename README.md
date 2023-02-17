@@ -1,6 +1,6 @@
 ## 📺 SmartTv
 
-Pequeno sistema interativo orientado a objeto.
+Pequeno sistema orientado a objeto.
 
 # Projeto executado pelo terminal, basta ir no arquivo do usuário e Startar o projeto
 
