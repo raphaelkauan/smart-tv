@@ -3,17 +3,17 @@ public class SmartTv {
   int canal = 1;
   int volume = 25;
 
-  /* Criando o Método ligar */
+  // Criando o Método ligar
   public void ligar() {
     ligada = true;
   }
 
-  /* Criando o Método desligar */
+  // Criando o Método desligar
   public void desligar() {
     ligada = false;
   }
 
-  /* Criando Método para Mudar de Canal */
+  // Criando Método para Mudar de Canal
   public void mudarCanal(int novoCanal) {
     canal = novoCanal;
   }
@@ -26,9 +26,9 @@ public class SmartTv {
     canal++;
   }
 
-  /* Criando o Métodos para o Volume */
+  // Criando o Métodos para o Volume
   public void aumentarVolume() {
-    /* volume = volume +1 */
+    // volume = volume +1
     volume++;
   }
 
@@ -36,4 +36,3 @@ public class SmartTv {
     volume--;
   }
 }
-
